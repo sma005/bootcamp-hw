@@ -1,0 +1,8 @@
+http://www.storytellingwithdata.com/
+https://www.apress.com/us/book/9781484207352  - Advanced Excel
+
+VBA
+https://www.homeandlearn.org/excel_vba_practice1.html
+https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office
+
+
